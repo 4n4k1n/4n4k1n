@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Anakin</h1>
 <h3 align="left">Student at 42 Heilbronn.</h3>
 
-- 🌱 I’m currently learning *C, Python, Go and Assembly.
+- 🌱 I’m currently learning *C, Python, Go and Assembly*.
 - 👨‍💻 Working on *libft*.
 
 <h3 align="left">Languages and Tools:</h3>
