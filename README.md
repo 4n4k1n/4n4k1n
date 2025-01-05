@@ -9,4 +9,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4n4k1n&" alt="4n4k1n" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4n4k1n&" alt="4n4k1n" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=4n4k1n&show_icons=true&locale=en" alt="4n4k1n" /></p>
