@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Anakin</h1>
 
-- 🌱 I’m currently learning *C* and *Go*.
+- 🌱 I’m currently learning *C*, *Go* and *MySQL*.
 - 👨‍💻 Working on *School-Management-System*.
 
 <h3 align="left">Languages and Tools:</h3>
