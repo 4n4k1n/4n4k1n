@@ -1,8 +1,13 @@
 👋 Hi, I'm **[Anakin]**  
+
 🎓 **Student** at [42 Heilbronn](https://42heilbronn.de/)  
+
 🌍 **Languages**: 🇩🇪 German / 🇬🇧 English  
+
 🤖 **Interested in**: Aerospace, Low-level programming, Kernel development, Shell scripting  
+
 🌟 **Favorite project**: [Minishell]  
+
 💙 **Favorite programming language**: C  
 
 ## 🌐 Reach Out:
