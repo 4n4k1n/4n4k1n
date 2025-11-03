@@ -10,8 +10,6 @@
 
 💙 **Favorite programming language**: Go
 
-**42 school logtime**: [42logtime.com](https://42logtime.com)
-
 ## 🌐 Reach Out:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anakin-pregitzer-927555368/) 
 
