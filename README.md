@@ -4,9 +4,9 @@
 
 🌍 **Languages**: 🇩🇪 German / 🇬🇧 English  
 
-🤖 **Interested in**: Aerospace, Low-level programming, Kernel development, Shell scripting  
+🤖 **Interested in**: Aerospace, Low-level programming, Shell scripting  
 
-🌟 **Favorite project**: [Minishell]  
+🌟 **Favorite project**: [miniRT](https://github.com/4n4k1n/42-miniRT)
 
 💙 **Favorite programming language**: Go
 
