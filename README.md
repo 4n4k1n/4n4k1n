@@ -1,21 +1,24 @@
-👋 Hi, I'm **Anakin**  
 
-🎓 **Student** at [42 Heilbronn](https://42heilbronn.de/)  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/4n4k1n) 
 
-🌍 **Languages**: 🇩🇪 German / 🇬🇧 English  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=4n4k1n&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=4n4k1n&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=4n4k1n&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-🤖 **Interested in**: Aerospace, Low-level programming, Kernel development, Shell scripting  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=4n4k1n&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-🌟 **Favorite project**: [Minishell]  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-💙 **Favorite programming language**: Go
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=4n4k1n&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 🌐 Reach Out:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anakin-pregitzer-927555368/) 
+---
+[![](https://visitcount.itsvg.in/api?id=4n4k1n&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 💻 I occasionally dabble in:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-![](https://github-stats-service-2ullbbyid-4n4k1ns-projects.vercel.app/api/stats?username=4n4k1n&v=1)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=4n4k1n&label=Profile%20views&color=0e75b6&style=flat" alt="4n4k1n" /> </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
